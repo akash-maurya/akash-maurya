@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akash-maurya
 - 👀 I’m interested in MERN Stack Web development
-- 🌱 I’m currently learning REST API and Databases
-- 💞️ I’m looking to collaborate on Full stack open source
+- 💞️ MERN Stack open source collaborator
 - 📫 How to reach me - akashmaurya2301@gmail.com
 
 <!---

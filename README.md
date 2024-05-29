@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akash-maurya
-- 👀 I’m interested in MERN Stack Web development
+- 👀 I’m interested in Full stack Web development
 - 💞️ MERN Stack open source collaborator
 - 📫 How to reach me - akashmaurya2301@gmail.com
 
